@@ -1,5 +1,7 @@
-Copy the following code into the "Schema SQL" section on https://www.db-fiddle.com/
+Steves Car Showroom
 
+
+Copy the following code into the "Schema SQL" section on https://www.db-fiddle.com/
 CREATE TABLE cars (
 car_id INT PRIMARY KEY,
 make VARCHAR(50),
